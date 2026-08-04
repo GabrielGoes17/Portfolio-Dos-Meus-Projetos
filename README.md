@@ -1,0 +1,1 @@
+Este portfólio reúne projetos desenvolvidos ao longo da minha jornada de aprendizado, incluindo atividades realizadas na plataforma Alura e trabalhos acadêmicos. Cada projeto representa a aplicação prática de conhecimentos em programação, desenvolvimento de sistemas e resolução de problemas, demonstrando minha evolução técnica e meu comprometimento com o aprendizado contínuo.
